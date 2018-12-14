@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2018-12-04T21:43:19+01:00
 title = "Hello World"
 slug = "hello-world"
