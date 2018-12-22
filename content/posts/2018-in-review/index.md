@@ -10,7 +10,7 @@ tags: ["review", "retrospective"]
 
 2018 came and went pretty fast. While technically still in December, I thought I'd write up a summary for the past year, and with it, kickstart this site of mine.
 
-Understandably, it's rather hard, as I don't have any place to look back to to see what I've planned for the year. The truth is, I haven't had anything, I was just going with the flow, if you will.
+Understandably, it's rather hard, as I don't have any place to look back to see what I've planned for the year. The truth is, I haven't had anything, I was just going with the flow, if you will.
 
 ### Good things come to those who think
 
