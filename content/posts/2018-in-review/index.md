@@ -5,7 +5,7 @@ draft: false
 tags: ["review", "retrospective"]
 ---
 
-![2018 calendar](2018-header.jpg)
+![2018 calendar](images/2018-header.jpg)
 <sub>Image credit to [ulleo on pixabay.com](https://pixabay.com/en/calendar-2018-year-turn-of-the-year-2763496/)</sub>
 
 2018 came and went pretty fast. While technically still in December, I thought I'd write up a summary for the past year, and with it, kickstart this site of mine.
@@ -18,7 +18,7 @@ One of the best things that came out of 2018, is me realizing that I didn't have
 
 Have you ever had the feeling that you don't really enjoy what you're doing or working on? And that you're pretty sure that you should change, but not sure what exactly? Or - have you had colleagues or employees who kept on complaining about their responsibilities, but when asked what they wanted to do about it, how they wanted to change it, they simply said "I don't know"?
 
-![questions](question.jpg)
+![questions](images/question.jpg)
 <sub>Image credit to [Anemone123 on pixabay.com](https://pixabay.com/en/question-question-mark-survey-2736480/)</sub>
 
 I was like that, until about the middle of the year when I figured out what I really wanted to do. At 31 years. Better late than never I guess.
@@ -43,7 +43,7 @@ Other than that, I kept ingesting knowledge.
 
 ### Docker and Kubernetes
 
-![container ship](container.jpg)
+![container ship](images/container.jpg)
 <sub>Obligatory image about containers. Also, credit to [Julius_Silver on pixabay.com](https://pixabay.com/en/hamburg-port-of-hamburg-3021820/)</sub>
 
 This year I went all-in on Docker, and moderately immersed myself in Kubernetes.
@@ -58,7 +58,7 @@ Naturally, meeting these technologies and their ecosystem showed me exactly how 
 
 ### Improving, improving, improving
 
-![bookshelf](books.jpg)
+![bookshelf](images/books.jpg)
 <sub>Image credit to [Free-Photos on pixabay.com](https://pixabay.com/en/books-bookshelf-library-literature-1245744/)</sub>
 
 I have watched countless conference talks, read even more articles, did some online courses and had my fair share of books about programming (and DevOps).
