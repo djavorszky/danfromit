@@ -12,13 +12,13 @@ tags: ["review", "retrospective"]
 ![2018 calendar](images/2018-header.jpg)
 <sub>Image credit to [ulleo on pixabay.com](https://pixabay.com/en/calendar-2018-year-turn-of-the-year-2763496/)</sub>
 
-Understandably, it's rather hard, as I don't have any place to look back to see what I've planned for the year. The truth is, I haven't had anything, I was just going with the flow, if you will.
+Understandably, it's rather hard, as I don't have any place to look back to see what I've planned for the year. The truth is, I haven't had anything, I was just going with the flow if you will.
 
-### Good things come to those who think
+Good things come to those who think
 
 One of the best things that came out of 2018, is me realizing that I didn't have any plans for the year. No clear-cut path to improve in, no fixed interests, no real idea of what I _really_ wanted to do.
 
-Have you ever had the feeling that you don't really enjoy what you're doing or working on? And that you're pretty sure that you should change, but not sure what exactly? Or - have you had colleagues or employees who kept on complaining about their responsibilities, but when asked what they wanted to do about it, how they wanted to change it, they simply said "I don't know"?
+Have you ever had the feeling that you don't really enjoy what you're doing or working on? And that you're pretty sure that you should change, but not sure what exactly? Or - have you had colleagues or employees who kept on complaining about their responsibilities, but when asked what they wanted to do about it, how they wanted to change it, they simply said: "I don't know"?
 
 ![questions](images/question.jpg)
 <sub>Image credit to [Anemone123 on pixabay.com](https://pixabay.com/en/question-question-mark-survey-2736480/)</sub>
@@ -37,7 +37,7 @@ And then it hit me. _I was already doing that_. There ~~were~~ are weekends (and
 
 In other words, creating tools to help others.
 
-The biggest hobby project I had this year was a tool that parsed a Java project and built up a dependency graph based on what each of the classes were importing. This was in preparation of seeing whether there are any import cycles in there, and if so, how many.
+The biggest hobby project I had this year was a tool that parsed a Java project and built up a dependency graph based on what each of the classes was importing. This was in preparation of seeing whether there are any import cycles in there, and if so, how many.
 
 > There were many import cycles. Surprisingly, I couldn't find any other Java projects in my brief search that _didn't_ have them.
 
@@ -50,9 +50,9 @@ Other than that, I kept ingesting knowledge.
 
 This year I went all-in on Docker, and moderately immersed myself in Kubernetes.
 
-Docker appeals to me on a fundamental level - abstracting the execution of the environment from the actual environment in a small, easily sharable package is brilliant. Adding to that the mentality of statelessness (i.e. extra data needed by your app to operate) opened a lot of opportunities.
+Docker appeals to me on a fundamental level - abstracting the execution of the environment from the actual environment in a small, easily shareable package is brilliant. Adding to that the mentality of statelessness (i.e. extra data needed by your app to operate) opened a lot of opportunities.
 
-It also lead me to the world of container orchestration systems like Swarm, and eventually Kubernetes, which can take a bunch of containers and keep them alive. If they die, restart them. If the server dies, schedule them onto other nodes. Of course I'm over-simplifying what Swarm and Kubernetes can do, but this is the primary benefit that I saw in the beginning.
+It also lead me to the world of container orchestration systems like Swarm, and eventually Kubernetes, which can take a bunch of containers and keep them alive. If they die, restart them. If the server dies, schedule them onto other nodes. Of course, I'm over-simplifying what Swarm and Kubernetes can do, but this is the primary benefit that I saw in the beginning.
 
 If we combine the statelessness of the containers with what Kubernetes (and, of course, Swarm) can do to keep them alive, we can remove humans from the operations side to allow them to work on more meaningful things, instead of just toiling away on keeping services alive.
 
