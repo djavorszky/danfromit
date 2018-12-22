@@ -3,14 +3,10 @@ title: "2018 in review"
 date: 2018-12-21T21:59:38+01:00
 draft: false
 tags: ["review", "retrospective"]
+featured_image: "posts/2018-in-review/images/2018-header.jpg"
 ---
 
 2018 came and went pretty fast. While technically still in December, I thought I'd write up a summary for the past year, and with it, kickstart this site of mine.
-
-<!--more-->
-
-![2018 calendar](images/2018-header.jpg)
-<sub>Image credit to [ulleo on pixabay.com](https://pixabay.com/en/calendar-2018-year-turn-of-the-year-2763496/)</sub>
 
 Understandably, it's rather hard, as I don't have any place to look back to see what I've planned for the year. The truth is, I haven't had anything, I was just going with the flow if you will.
 
@@ -74,3 +70,5 @@ All of these topics have encouraged me to learn even more about them, as well as
 That was the gist of 2018. Me figuring out what I wanted to do, meeting amazing technologies and ways of thinking, and adopting as much as I can.
 
 Here's hoping 2019 will be even better!
+
+<sub>Featured image credit to [ulleo on pixabay.com](https://pixabay.com/en/calendar-2018-year-turn-of-the-year-2763496/)</sub>
