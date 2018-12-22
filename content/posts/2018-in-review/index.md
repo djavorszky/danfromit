@@ -14,7 +14,7 @@ tags: ["review", "retrospective"]
 
 Understandably, it's rather hard, as I don't have any place to look back to see what I've planned for the year. The truth is, I haven't had anything, I was just going with the flow if you will.
 
-Good things come to those who think
+### Good things come to those who think
 
 One of the best things that came out of 2018, is me realizing that I didn't have any plans for the year. No clear-cut path to improve in, no fixed interests, no real idea of what I _really_ wanted to do.
 
