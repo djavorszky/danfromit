@@ -10,6 +10,11 @@ Paginate = 20
 googleAnalytics = "UA-131009415-1"
 enableRobotsTXT = true
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
