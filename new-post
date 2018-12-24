@@ -1,0 +1,8 @@
+#!/bin/zsh
+
+if [ $# -ne 1 ]; then
+    echo "usage: 'new-post post-title'"
+    exit 1
+fi
+
+hugo new --kind post-bundle posts/$1
