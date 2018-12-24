@@ -3,6 +3,8 @@ title: "2018 in review"
 date: 2018-12-21T21:59:38+01:00
 draft: false
 tags: ["review", "retrospective"]
+categories: []
+series: ["Year in review"]
 featured_image: "posts/2018-in-review/images/2018-header.jpg"
 ---
 
