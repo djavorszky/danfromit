@@ -1,7 +1,7 @@
 ---
 title: "2019: Focus on growing"
 date: 2018-12-25T16:00:00+01:00
-draft: true
+draft: false
 featured_image: "posts/2019-focus-on-growing/images/featured.jpg"
 tags: ["plan", "technologies", "design", "ranting"]
 categories: []
