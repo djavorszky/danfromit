@@ -12,7 +12,7 @@ Intro section goes here (before the "read more" section). Shouldn't be more than
 
 <!--more-->
 
-Article goes here.
+The article goes here.
 
 <!-- Credit to the bottom -->
 <sub>Featured image credit to [qimono on pixabay.com](https://pixabay.com/en/sunrise-space-outer-space-globe-1756274/)</sub>
