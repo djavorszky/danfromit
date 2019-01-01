@@ -116,6 +116,7 @@ The advice <https://semver.org> gives for this is to start versioning from 0.1.0
 Check out the [Frequently Asked Questions sections on semver.org](https://semver.org/#faq) for more questions-and-answers about when and how to use semantic versions.
 
 Until next time,
+
 Dan
 
 <sub>Featured image credit to [Myriams-Fotos on pixabay.com](https://pixabay.com/en/teacup-cup-of-tea-peppermint-tea-2325722/)</sub>
