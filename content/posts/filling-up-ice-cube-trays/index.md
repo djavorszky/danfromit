@@ -1,6 +1,6 @@
 ---
 title: "Filling up ice cube trays is surprisingly similar to serving requests"
-date: 2019-01-27T19:32:00Z
+date: 2019-01-27T17:30:00Z
 draft: false
 featured_image: "posts/filling-up-ice-cube-trays/images/featured.jpg"
 tags: ["performance", "server", "cpu", "io", "explanation"]
